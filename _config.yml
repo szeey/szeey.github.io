@@ -3,6 +3,7 @@ title: LEESEJUN
 email: ssaezoon@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://saezoon.com" # the base hostname & protocol for your site
+logo: /icon.png
 
 theme_config:
   date_format: "%Y-%m-%d" # customize how date is formatted

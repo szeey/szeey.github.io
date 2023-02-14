@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Feb 2023 00:07:15 -0500</pubDate>
-    <lastBuildDate>Tue, 14 Feb 2023 00:07:15 -0500</lastBuildDate>
+    <pubDate>Tue, 14 Feb 2023 00:46:06 -0500</pubDate>
+    <lastBuildDate>Tue, 14 Feb 2023 00:46:06 -0500</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -194,8 +194,8 @@
 &lt;p&gt;이러고 집에와서 코로나 확진&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Feb 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/02/13/NYC/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/02/13/NYC/</guid>
+        <link>http://localhost:4000/2023/02/NYC</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/02/NYC</guid>
         
         
       </item>
@@ -249,8 +249,8 @@
 언젠가는 다시 찾아오겠읍니다&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 Dec 2022 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2022/12/14/22%E1%84%82%E1%85%A7%E1%86%AB-11%E1%84%8B%E1%85%AF%E1%86%AF/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/12/14/22%E1%84%82%E1%85%A7%E1%86%AB-11%E1%84%8B%E1%85%AF%E1%86%AF/</guid>
+        <link>http://localhost:4000/2022/12/22%E1%84%82%E1%85%A7%E1%86%AB-11%E1%84%8B%E1%85%AF%E1%86%AF</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/12/22%E1%84%82%E1%85%A7%E1%86%AB-11%E1%84%8B%E1%85%AF%E1%86%AF</guid>
         
         
       </item>
