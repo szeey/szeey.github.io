@@ -5,7 +5,7 @@
 
 html { box-sizing: border-box; font-size: 62.5%; }
 
-body { color: #000000; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 1.6rem; font-weight: 500; letter-spacing: .01em; line-height: 2; }
+body { margin: 0; color: #000000; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 1.6rem; font-weight: 500; letter-spacing: .01em; line-height: 2; width: 100vw; height: 100vh; }
 
 /*! Milligram-scss v1.3.0 https://milligram.github.io Copyright (c) 2017 CJ Patoilo Licensed under the MIT license */
 blockquote { border-left: 0.3rem solid #d1d1d1; margin-left: 0; margin-right: 0; padding: 1rem 1.5rem; }
