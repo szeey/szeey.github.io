@@ -22,6 +22,11 @@ body {
   height: 100vh;
 }
 
+.video-wrap {position:relative; padding-bottom:56.25%; padding-top:30px; height:0; overflow:hidden;}
+.video-wrap iframe,
+.video-wrap object,
+.video-wrap embed {position:absolute; top:0; left:0; width:100%; height:100%;}
+
 /* Responsive styles */
 @media screen and (max-width: 768px) {
   /* Adjust styles for small screens */
