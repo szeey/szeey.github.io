@@ -217,8 +217,6 @@ img { max-width: 100%; }
 
 .nav-item { display: inline-block; padding: 1rem; margin: 0; }
 
-.post-nav { text-align: center; padding: 0; }
-
 .post-title { display: block; }
 
 /** override column size for mobile */
@@ -230,7 +228,7 @@ img { max-width: 100%; }
 .contact-list, .social-media-list { list-style: none; margin-left: 0; }
 
 /** Misc */
-.preview-panel { padding: 1rem; box-sizing: border-box; border: 1px solid #fff; }
+.preview-panel { padding: 1.25rem; box-sizing: border-box; border: 1px solid #fff; font-size: 16px; }
 
 .preview-panel:hover { border: 1px solid #e8e8e8; }
 
