@@ -1,4 +1,4 @@
-I"#<html>
+I"0<html>
 <style>
 .center {
   text-align: center;
@@ -15,8 +15,8 @@
   </p>
   <p>
     <div class="video-wrap">
-    <iframe id="video" width="100%" height="315" src="https://www.youtube.com/embed//z6d-MCx4l9Y" frameborder="0" allow="encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-  &lt;/p&gt;
+    <iframe id="video" width="100%" height="315" src="https://www.youtube.com/embed/z6d-MCx4l9Y?rel=0&amp;vq=hd1080" frameborder="0" allow="encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    </div>
+  </p>
 </div>
-</p></div>
 :ET

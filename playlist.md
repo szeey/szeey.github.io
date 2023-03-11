@@ -13,7 +13,7 @@ layout: default
   </p>
   <p>
     <div class="video-wrap">
-    <iframe id="video" width="100%" height="315" src="https://www.youtube.com/embed//z6d-MCx4l9Y" frameborder="0" allow="encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe id="video" width="100%" height="315" src="https://www.youtube.com/embed/z6d-MCx4l9Y?rel=0&vq=hd1080" frameborder="0" allow="encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </p>
 </div>
