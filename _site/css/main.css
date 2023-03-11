@@ -5,16 +5,16 @@
 
 html { box-sizing: border-box; font-size: 62.5%; }
 
-body { margin: 0; color: #000000; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 1.6rem; /* Currently ems cause chrome bug misinterpreting rems on body element */ font-weight: 500; letter-spacing: .01em; line-height: 2; width: 100vw; height: 100vh; }
+body { margin: 0; color: #000000; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 1.7rem; /* Currently ems cause chrome bug misinterpreting rems on body element */ font-weight: 500; letter-spacing: .01em; line-height: 1.8; width: 100vw; height: 100vh; }
 
 .video-wrap { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
 
 .video-wrap iframe, .video-wrap object, .video-wrap embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
 /* Responsive styles */
-@media screen and (max-width: 768px) { /* Adjust styles for small screens */ body { font-size: 1.4rem; line-height: 1.5; } }
+@media screen and (max-width: 768px) { /* Adjust styles for small screens */ body { font-size: 1.6rem; line-height: 1.7; } }
 
-@media screen and (max-width: 480px) { /* Adjust styles for extra small screens */ body { font-size: 1.3rem; line-height: 1.4; } }
+@media screen and (max-width: 480px) { /* Adjust styles for extra small screens */ body { font-size: 1.5rem; line-height: 1.6; } }
 
 /*! Milligram-scss v1.3.0 https://milligram.github.io Copyright (c) 2017 CJ Patoilo Licensed under the MIT license */
 blockquote { border-left: 0.3rem solid #d1d1d1; margin-left: 0; margin-right: 0; padding: 1rem 1.5rem; }
@@ -228,7 +228,7 @@ img { max-width: 100%; }
 .contact-list, .social-media-list { list-style: none; margin-left: 0; }
 
 /** Misc */
-.preview-panel { padding: 1.25rem; box-sizing: border-box; border: 1px solid #fff; font-size: 16px; }
+.preview-panel { padding: 1.25rem; box-sizing: border-box; border: 1px solid #fff; }
 
 .preview-panel:hover { border: 1px solid #e8e8e8; }
 

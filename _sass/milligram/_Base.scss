@@ -14,10 +14,10 @@ body {
   margin: 0;
   color: #000000;
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-  font-size: 1.6rem; /* Currently ems cause chrome bug misinterpreting rems on body element */
+  font-size: 1.7rem; /* Currently ems cause chrome bug misinterpreting rems on body element */
   font-weight: 500;
   letter-spacing: .01em;
-  line-height: 2;
+  line-height: 1.8;
   width: 100vw;
   height: 100vh;
 }
@@ -31,15 +31,15 @@ body {
 @media screen and (max-width: 768px) {
   /* Adjust styles for small screens */
   body {
-    font-size: 1.4rem;
-    line-height: 1.5;
+    font-size: 1.6rem;
+    line-height: 1.7;
   }
 }
 
 @media screen and (max-width: 480px) {
   /* Adjust styles for extra small screens */
   body {
-    font-size: 1.3rem;
-    line-height: 1.4;
+    font-size: 1.5rem;
+    line-height: 1.6;
   }
 }
